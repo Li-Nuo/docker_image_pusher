@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:lates
+apacherocketmq/rocketmq-dashboard:latet
